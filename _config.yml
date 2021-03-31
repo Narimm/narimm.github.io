@@ -21,7 +21,8 @@ author: Narimm
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Learn markdown: "http://www.markdowntutorial.com/"
+    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Learn markdown: "https://www.markdowntutorial.com/"
     - GitHub Pages: "https://pages.github.com/"
   Author's home: "http://narimm.github.io"
 
